@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:extension-okhttp:2.19.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2d7e981c6634cb942c15b8784d5997f1/transformed/extension-okhttp-2.19.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2d7e981c6634cb942c15b8784d5997f1/transformed/extension-okhttp-2.19.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/extension-okhttp/2.19.1/7156443fa6f1906c1cfb1bc99e713ec1146525c4/extension-okhttp-2.19.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
